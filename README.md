@@ -1,29 +1,31 @@
-# Olá! Eu sou a Beatriz 👋
+# Hello! I'm Beatriz 👋
 
-Profissional em formação na área de Tecnologia da Informação, com foco em Linux, infraestrutura, cloud computing e Segurança da Informação.
+I'm an Information Security graduate focused on Linux, infrastructure, cloud computing and cybersecurity.
 
-🎓 Formada em Segurança da Informação pela Fatec Ourinhos  
-☁️ Experiência prática em AWS Cloud, Linux e DevSecOps  
-🐧 Projetos voltados para infraestrutura, versionamento e ambientes Linux  
-📚 Em constante aprendizado e desenvolvimento técnico
+I had the opportunity to participate in the DevSecOps Internship Program at Compass UOL, where I worked with practical activities involving Linux environments, AWS Cloud, Docker, networking concepts and infrastructure fundamentals.
 
-## Tecnologias e conhecimentos
+Currently, I continue improving my technical skills through hands-on projects, labs and continuous learning.
+
+## 🚀 Technologies & Skills
 
 - Linux
 - AWS Cloud
 - Docker
 - Git/GitHub
-- Redes TCP/IP
-- Segurança da Informação
+- TCP/IP Networking
+- Information Security
 - Cloud Computing
-- Infraestrutura básica
+- Basic Infrastructure
+- Windows
+- Collaborative Tools
 
-## Projetos em destaque
+## 📌 Featured Projects
 
-📌 PB-Compass-Project-Linux  
-📌 Projetos práticos AWS Cloud  
-📌 Laboratórios Linux e infraestrutura
+- Linux practical labs and infrastructure activities
+- DevSecOps learning projects
+- AWS Cloud practical exercises
+- Git/GitHub versioning projects
 
-## Contato
+## 📫 Contact
 
-💼 LinkedIn: linkedin.com/in/beatriz-juliana-ti/
+- LinkedIn: linkedin.com/in/beatriz-juliana-ti/
