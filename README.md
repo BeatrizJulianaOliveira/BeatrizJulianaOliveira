@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou a Beatriz 👋
 
-<!--
-**BeatrizJulianaOliveira/BeatrizJulianaOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em formação na área de Tecnologia da Informação, com foco em Linux, infraestrutura, cloud computing e Segurança da Informação.
 
-Here are some ideas to get you started:
+🎓 Formada em Segurança da Informação pela Fatec Ourinhos  
+☁️ Experiência prática em AWS Cloud, Linux e DevSecOps  
+🐧 Projetos voltados para infraestrutura, versionamento e ambientes Linux  
+📚 Em constante aprendizado e desenvolvimento técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e conhecimentos
+
+- Linux
+- AWS Cloud
+- Docker
+- Git/GitHub
+- Redes TCP/IP
+- Segurança da Informação
+- Cloud Computing
+- Infraestrutura básica
+
+## Projetos em destaque
+
+📌 PB-Compass-Project-Linux  
+📌 Projetos práticos AWS Cloud  
+📌 Laboratórios Linux e infraestrutura
+
+## Contato
+
+💼 LinkedIn: linkedin.com/in/beatriz-juliana-ti/
