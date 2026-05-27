@@ -6,7 +6,6 @@ I had the opportunity to participate in the DevSecOps Internship Program at Comp
 
 Currently, I continue improving my technical skills through hands-on projects, labs and continuous learning.
 
-🌱 Currently improving my skills in Linux, cloud computing and infrastructure.
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
